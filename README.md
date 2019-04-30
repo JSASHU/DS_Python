@@ -1,2 +1,2 @@
 # DS_Python
-Data Structure Problems in Python.....
+Data Structure Problems in Python.
